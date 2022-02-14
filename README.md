@@ -10,7 +10,7 @@
 
 - 📫  How to reach me: 
 
-  
+  <img align="right" alt="aladingzl" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aladingzl)](https://github.com/anuraghazra/github-readme-stats)
 
