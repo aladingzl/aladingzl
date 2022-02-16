@@ -8,7 +8,7 @@
 
 - 🤔  JavaScript / HTML / CSS / Vue
 
-- 📫  How to reach me: 
+- 📫  How to reach me: 2414151633@qq.com
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aladingzl)](https://github.com/anuraghazra/github-readme-stats)
